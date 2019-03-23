@@ -1,0 +1,31 @@
+body{
+    background-image: linear-gradient(gray,navy);
+}
+
+h1{
+    text-align: center;
+    font-family: 'Alegreya Sans SC', sans-serif;
+    color: red;
+}
+
+.train-times{
+    font-family: 'Quantico', sans-serif;
+    color: gold;
+    border: dashed black 2px;
+    border-radius: 30px 30px;
+    margin: 3px;
+
+}
+
+.s12{
+    color: blue
+
+}
+
+th{
+    padding-left: 3px;
+}
+
+tr{
+    padding-left: 5px;
+}
